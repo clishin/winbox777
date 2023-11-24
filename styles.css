@@ -10,10 +10,8 @@ body {
   }
 
   .footer{
-    background-color: #3a993f00;
     font-family: Tahoma, Arial;
     font-size: 15px;
-    color: rgb(235, 237, 232);
     position: fixed;
     height: 90px;
     width:90px;
